@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jil padalia 👋
 
-<!--
-**Jilpadalia/Jilpadalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Passionate Developer | Nirma University
+Welcome to my GitHub! I'm a [Your Job Title] with a passion for [Something You’re Passionate About]. I enjoy working on challenging projects, learning new technologies, and solving real-world problems with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages**: C, C++, Python, Java, SQL, HTML, CSS
+- **Course Work**: Software Engineering, Data structures, Algorithms, Machine learning, Operating Systems, Computer Networks
+- **Tools**: Git, Docker, MySQL
+
+---
+
+## 💬 Connect with Me
+
+- **Email**: [joeypadalia7@gmail.com](mailto:joeypadalia7@gmail.com.com)
+- **LinkedIn**: [Jil Padalia](www.linkedin.com/in/jil-padalia-7b9071237)
+- **GitHub**: [github.com/Jilpadalia](https://github.com/Jilpadalia)
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me!

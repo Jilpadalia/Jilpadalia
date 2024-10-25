@@ -1,7 +1,7 @@
 # Hi, I'm Jil padalia 👋
 
 ### A Passionate Developer | Nirma University
-Welcome to my GitHub! I'm a [Your Job Title] with a passion for [Something You’re Passionate About]. I enjoy working on challenging projects, learning new technologies, and solving real-world problems with code.
+Welcome to my GitHub! I'm a Software developer with a passion for developing innovative products. I enjoy working on challenging projects, learning new technologies, and solving real-world problems with code.
 
 ---
 
